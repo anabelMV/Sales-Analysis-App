@@ -1,0 +1,19 @@
+2025-10-22 09:32:22,798 - analysis_engine - ERROR - Archivo no encontrado: data/sample_sales.csv
+2025-10-22 09:32:22,798 - __main__ - INFO - Generando datos iniciales...
+2025-10-22 09:32:25,290 - analysis_engine - INFO - Datos cargados: 2000 registros desde data/sample_sales.csv
+2025-10-22 09:36:18,156 - analysis_engine - INFO - Datos cargados: 2000 registros desde data/sample_sales.csv
+2025-10-22 09:36:18,157 - __main__ - INFO - Datos cargados exitosamente
+2025-10-22 09:36:19,087 - __main__ - INFO - Dashboard mostrado
+2025-10-22 09:36:19,088 - __main__ - INFO - Aplicación Sales Analysis Pro v2.0.0 iniciada
+2025-10-22 09:36:26,317 - __main__ - INFO - Dashboard mostrado
+2025-10-22 09:36:27,682 - __main__ - INFO - Dashboard mostrado
+2025-10-22 09:36:28,659 - analysis_engine - INFO - Datos cargados: 2000 registros desde data/sample_sales.csv
+2025-10-22 09:36:28,925 - __main__ - INFO - Dashboard mostrado
+2025-10-22 09:36:30,396 - __main__ - INFO - Datos refrescados
+2025-10-22 09:36:56,493 - analysis_engine - INFO - Datos cargados: 2000 registros desde data/sample_sales.csv
+2025-10-22 09:36:56,768 - __main__ - INFO - Dashboard mostrado
+2025-10-22 09:36:57,951 - __main__ - INFO - Datos refrescados
+2025-10-22 09:36:57,951 - __main__ - INFO - Datos regenerados
+2025-10-22 09:37:00,870 - __main__ - INFO - Dashboard mostrado
+2025-10-22 09:37:02,651 - __main__ - INFO - Análisis por categoría mostrado
+2025-10-22 09:37:17,766 - __main__ - INFO - Dashboard mostrado

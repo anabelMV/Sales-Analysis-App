@@ -1,0 +1,1 @@
+# No se necesitan dependencias externas - 100% Python estándar
